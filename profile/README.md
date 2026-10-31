@@ -12,6 +12,12 @@ A digital systems firm in Bangkok. We design, build, and operate websites, apps,
 
 The stack we build is yours: open-source, documented, and portable.
 
+### Open source
+
+We contribute fixes back to the open-source software we run.
+
+- [Tymeslot](https://github.com/Tymeslot/tymeslot) (meeting scheduling): trusted proxy ranges, so visitors behind a content delivery network (CDN) get their own rate limits. [Pull request #195](https://github.com/Tymeslot/tymeslot/pull/195), in review.
+
 ### Get in touch
 
 [guritechnologies.com](https://guritechnologies.com)
