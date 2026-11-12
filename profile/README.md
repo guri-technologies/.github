@@ -16,7 +16,7 @@ The stack we build is yours: open-source, documented, and portable.
 
 We contribute fixes back to the open-source software we run.
 
-- [Tymeslot](https://github.com/Tymeslot/tymeslot) (meeting scheduling): trusted proxy ranges, so visitors behind a content delivery network (CDN) get their own rate limits. [Pull request #195](https://github.com/Tymeslot/tymeslot/pull/195), in review.
+- [Tymeslot](https://github.com/Tymeslot/tymeslot) (meeting scheduling): trusted proxy ranges, so visitors behind a content delivery network (CDN) get their own rate limits. [Pull request #195](https://github.com/Tymeslot/tymeslot/pull/195), merged November 2026.
 
 ### Get in touch
 
